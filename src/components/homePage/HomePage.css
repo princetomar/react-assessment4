@@ -17,3 +17,8 @@ img {
 img:hover {
     transform: scaleX(1.5); /* Scale the width by a factor of 1.5 while keeping the height unchanged */
 }
+
+.homeButton{
+    height: 120px;
+    width: 240px;
+}
