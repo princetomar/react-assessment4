@@ -1,0 +1,19 @@
+.mainContainer{
+    margin: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: gainsboro;
+}
+
+img {
+    width: 20%;
+    height: auto;
+    transition:  ease-in 1s;
+    cursor: pointer;
+    
+}
+
+img:hover {
+    transform: scaleX(1.5); /* Scale the width by a factor of 1.5 while keeping the height unchanged */
+}
