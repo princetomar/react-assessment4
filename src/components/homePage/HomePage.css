@@ -1,7 +1,6 @@
 .mainContainer{
     margin: 40px;
     display: flex;
-    align-items: center;
     justify-content: center;
     background-color: gainsboro;
 }

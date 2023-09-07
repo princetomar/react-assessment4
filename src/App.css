@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 } */
+
+.App{
+  background-color: white;
+  align-items: center;
+}
+
+.formPage{
+  margin: 2.5%;
+  align-items: center;
+  height: 1000px;
+  width: 95%;
+  background-color: wheat;
+}
